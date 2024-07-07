@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.video-player {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    gap: 15px;
+}
+
+h1 {
+    color: #fff;
+}
+
+button {
+    background: gray;
+    padding: 1rem;
+    cursor: pointer;
+    border: none;
+}
