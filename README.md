@@ -6,3 +6,5 @@ https://github.com/genze121/Background-Video-Player/assets/45147588/c6ea356b-2a0
 
 Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
 
+Twitter: [Twitter Link](https://x.com/genze121 "Tirtha Sharma")
+
